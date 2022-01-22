@@ -1,7 +1,7 @@
 # Email Spam Classifier
-using Machine Learning models to detect spame Emails
+Using Machine Learning models to detect spame Emails
 ## Data
-data is [Apache SpamAssassin’s public dataset](https://spamassassin.apache.org/old/publiccorpus/)
+Dataset is [Apache SpamAssassin’s public dataset](https://spamassassin.apache.org/old/publiccorpus/)
 
 ## Techniques
  - Regex
